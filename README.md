@@ -36,9 +36,10 @@ Siguientes n carácteres: Valor del dato: 1/0 para botones de control; n° de
 Último carácter: Siempre es <X>
                 Indica que el dato presente finalizó y que el siguiente carácter
                 corresponde al siguiente dato.
-.
-.
-.
+
+
+
+
 B.- Estructura Dato Duración de Encendido:
 
                             << DG12345X >>
@@ -52,9 +53,11 @@ B.- Estructura Dato Duración de Encendido:
 n carácter  -> Duración en segundos de la luz encendida.
 
 Último carácter ->  <X> (Fin del Dato)
-.
-.
-.
+
+
+
+
+
 C.- Estructura Dato Botón de Control:
 
                             << C@1X >>
